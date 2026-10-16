@@ -1,0 +1,61 @@
+# 编辑器与 IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI 编辑器
+.cursor/
+.cursorrules
+.cursorignore
+.aider*
+.windsurf/
+.windsurfrules
+.trae/
+.claude/
+CLAUDE.md
+.cline/
+.clinerules
+.codeium/
+.continue/
+.copilot/
+.gemini/
+GEMINI.md
+.idx/
+.kiro/
+.qodo/
+.sourcegraph/
+.zed/
+.junie/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 本地工作目录与暂存
+.workbuddy/
+_trash_*/
+
+# 日志与临时文件
+*.log
+tmp/
+.cache/
+
+# 环境变量
+.env
+.env.*
+
+# 依赖与脚本运行痕迹
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# 构建与打包产物
+dist/
+build/
+*.potext
+*.zip
